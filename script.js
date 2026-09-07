@@ -716,7 +716,7 @@ const CONFIG = {
     name: "Yahya Bhai",
 
     // 🎂 Birthday date
-    birthday: "08-09-2026",
+    birthday: "11-09-2026",
 
     // 💌 Main birthday message
     message: `
